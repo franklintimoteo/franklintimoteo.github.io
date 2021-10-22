@@ -28,7 +28,7 @@ twitter_username: _ftimoteo
 github_username:  franklintimoteo
 
 # Build settings
-remote_theme: P0WEX/Gesko
+theme: minima
 plugins:
   - jekyll-feed
 
